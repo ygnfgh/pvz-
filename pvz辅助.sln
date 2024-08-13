@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pvz辅助", "pvz辅助.vcxproj", "{AC2419CF-423D-4AD1-81F8-AAAE0480CABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2419CF-423D-4AD1-81F8-AAAE0480CABB}.Debug|x64.ActiveCfg = Debug|x64
+		{AC2419CF-423D-4AD1-81F8-AAAE0480CABB}.Debug|x64.Build.0 = Debug|x64
+		{AC2419CF-423D-4AD1-81F8-AAAE0480CABB}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC2419CF-423D-4AD1-81F8-AAAE0480CABB}.Debug|x86.Build.0 = Debug|Win32
+		{AC2419CF-423D-4AD1-81F8-AAAE0480CABB}.Release|x64.ActiveCfg = Release|x64
+		{AC2419CF-423D-4AD1-81F8-AAAE0480CABB}.Release|x64.Build.0 = Release|x64
+		{AC2419CF-423D-4AD1-81F8-AAAE0480CABB}.Release|x86.ActiveCfg = Release|Win32
+		{AC2419CF-423D-4AD1-81F8-AAAE0480CABB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D792128-B270-4EB4-BCC8-9F04EF88FFC0}
+	EndGlobalSection
+EndGlobal
